@@ -1,7 +1,7 @@
-.. image:: https://travis-ci.org/datasnakes/dstoolbox.svg?branch=master
-    :target: https://travis-ci.org/datasnakes/dstoolbox
+.. image:: https://travis-ci.org/datasnakes/snakebox.svg?branch=master
+    :target: https://travis-ci.org/datasnakes/snakebox
 
-dstoolbox
+snakebox
 ==============================
 
 A collection of tools used by the Datasnakes in their various github projects.
@@ -15,31 +15,31 @@ View the below methods for installing this package.
 
 PyPi
 ^^^^^^^^^^^^^^
-``pip install dstoolbox``
+``pip install snakebox``
 
 GitHub
 ^^^^^^^^^^^^^^
-1. Download the zip file and unzip it or ``git clone https://github.com/sdhutchins/dstoolbox.git``
-2. ``cd dstoolbox``
+1. Download the zip file and unzip it or ``git clone https://github.com/sdhutchins/snakebox.git``
+2. ``cd snakebox``
 3. ``pip install .``
 
 Development Code
 ^^^^^^^^^^^^^^^^^
-**WARNING** : This code is actively under development and may not be reliable.  Please create an `issue <https://github.com/sdhutchins/dstoolbox/issues>`_ for questions about development.
+**WARNING** : This code is actively under development and may not be reliable.  Please create an `issue <https://github.com/sdhutchins/snakebox/issues>`_ for questions about development.
 
-1. Download the zip file and unzip it or ``git clone -b dev-master https://github.com/sdhutchins/dstoolbox.git``
-2. ``cd dstoolbox``
+1. Download the zip file and unzip it or ``git clone -b dev-master https://github.com/sdhutchins/snakebox.git``
+2. ``cd snakebox``
 3. ``pip install .``
 
 Examples
 ~~~~~~~~~~~~~~~~
 .. code:: python
 
-    import dstoolbox
+    import snakebox
 
 Tests
 ~~~~~~~~~~~~~~~~
-To run tests, type ``nosetests Tests/`` in the dstoolbox directory.
+To run tests, type ``nosetests Tests/`` in the snakebox directory.
 
 Author
 ~~~~~~~~~~~~~~~~
@@ -48,9 +48,9 @@ Author
 
 
 If you would like to contribute to this package, install the package in development mode,
-and check out our `contributing guidelines <https://github.com/sdhutchins/dstoolbox/blob/master/CONTRIBUTING.rst>`__.
+and check out our `contributing guidelines <https://github.com/sdhutchins/snakebox/blob/master/CONTRIBUTING.rst>`__.
 
 
 License
 ~~~~~~~~~~~~~~~~
-`MIT <https://github.com/sdhutchins/dstoolbox/blob/master/LICENSE>`_
+`MIT <https://github.com/sdhutchins/snakebox/blob/master/LICENSE>`_
