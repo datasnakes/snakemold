@@ -1,7 +1,7 @@
-.. image:: https://travis-ci.org/datasnakes/snakebox.svg?branch=master
-    :target: https://travis-ci.org/datasnakes/snakebox
+.. image:: https://travis-ci.org/datasnakes/snakeutils.svg?branch=master
+    :target: https://travis-ci.org/datasnakes/snakeutils
 
-snakebox
+snakeutils
 ==============================
 
 A collection of tools used by the Datasnakes in their various github projects.
@@ -15,31 +15,31 @@ View the below methods for installing this package.
 
 PyPi
 ^^^^^^^^^^^^^^
-``pip install snakebox``
+``pip install snakeutils``
 
 GitHub
 ^^^^^^^^^^^^^^
-1. Download the zip file and unzip it or ``git clone https://github.com/sdhutchins/snakebox.git``
-2. ``cd snakebox``
+1. Download the zip file and unzip it or ``git clone https://github.com/sdhutchins/snakeutils.git``
+2. ``cd snakeutils``
 3. ``pip install .``
 
 Development Code
 ^^^^^^^^^^^^^^^^^
-**WARNING** : This code is actively under development and may not be reliable.  Please create an `issue <https://github.com/sdhutchins/snakebox/issues>`_ for questions about development.
+**WARNING** : This code is actively under development and may not be reliable.  Please create an `issue <https://github.com/sdhutchins/snakeutils/issues>`_ for questions about development.
 
-1. Download the zip file and unzip it or ``git clone -b dev-master https://github.com/sdhutchins/snakebox.git``
-2. ``cd snakebox``
+1. Download the zip file and unzip it or ``git clone -b dev-master https://github.com/sdhutchins/snakeutils.git``
+2. ``cd snakeutils``
 3. ``pip install .``
 
 Examples
 ~~~~~~~~~~~~~~~~
 .. code:: python
 
-    import snakebox
+    import snakeutils
 
 Tests
 ~~~~~~~~~~~~~~~~
-To run tests, type ``nosetests Tests/`` in the snakebox directory.
+To run tests, type ``nosetests Tests/`` in the snakeutils directory.
 
 Author
 ~~~~~~~~~~~~~~~~
@@ -48,9 +48,9 @@ Author
 
 
 If you would like to contribute to this package, install the package in development mode,
-and check out our `contributing guidelines <https://github.com/sdhutchins/snakebox/blob/master/CONTRIBUTING.rst>`__.
+and check out our `contributing guidelines <https://github.com/sdhutchins/snakeutils/blob/master/CONTRIBUTING.rst>`__.
 
 
 License
 ~~~~~~~~~~~~~~~~
-`MIT <https://github.com/sdhutchins/snakebox/blob/master/LICENSE>`_
+`MIT <https://github.com/sdhutchins/snakeutils/blob/master/LICENSE>`_
