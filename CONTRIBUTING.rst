@@ -6,13 +6,13 @@ Thanks for your desire to contribute to this project.
 
 Preparing your Fork
 ^^^^^^^^^^^^^^^^^^^
-1. Hit 'fork' on Github, creating e.g. ``yourname/snakeutils``.
-2. Clone your project: ``git clone git@github.com:yourname/snakeutils``.
-3. Create a branch: ``cd snakeutils; git checkout -b foo-the-bars 1.3``.
+1. Hit 'fork' on Github, creating e.g. ``yourname/snakemold``.
+2. Clone your project: ``git clone git@github.com:yourname/snakemold``.
+3. Create a branch: ``cd snakemold; git checkout -b foo-the-bars 1.3``.
 
 Development Mode Installation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Change to the project repository on your machine: ``cd snakeutils``
+1. Change to the project repository on your machine: ``cd snakemold``
 2. Install in development mode: ``pip install -e .``
 
 
