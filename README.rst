@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/datasnakes/snakemold.svg?branch=master
-    :target: https://travis-ci.org/datasnakes/snakemold
+.. image:: https://travis-ci.com/datasnakes/snakemold.svg?branch=master
+    :target: https://travis-ci.com/datasnakes/snakemold
 
 snakemold
 ==============================
